@@ -85,5 +85,4 @@ A structured data model was created to support calculations, trend analysis, and
 ## Author
 **Edifonini Godwin**  
 Data Analyst 
-Focused on dashboards, insights, and public-sector analytics.
 
